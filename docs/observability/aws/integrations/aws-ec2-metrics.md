@@ -9,9 +9,9 @@ description: The Sumo Logic App for AWS EC2 allows you to display and gain insig
 
 ## Metrics Types 
 
-Host metrics are gathered by the open-source [SIGAR library](https://github.com/hyperic/sigar). The metrics that are collected are described in Host Metrics for Installed Collectors.
+Host metrics are gathered by the open-source [SIGAR library](https://github.com/hyperic/sigar). The metrics that are collected are described in [Host Metrics for Installed Collectors.
 
-* CPU Metrics 
+* CPU Metrics
 * Memory Metrics
 * TCP Metrics
 * Networking Metrics
