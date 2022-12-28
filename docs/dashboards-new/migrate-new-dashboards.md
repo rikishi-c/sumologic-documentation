@@ -23,8 +23,6 @@ We do not guarantee 100% conversion from classic to new dashboard although we do
 * New dashboard provides the unique ability to display metrics metadata and logs data on the same dashboard in an integrated seamless view
 * New dashboard streamlines dashboard configuration and on-the-fly analytic visualizations with its new templating features.
 
-  Refer to the Link to the old and new dashboard comparison.
-
 ## Changes after migration
 
 This table shows the complete list of features that are changed after the implementation of the **Migration Dashboards** feature.
